@@ -14,5 +14,4 @@ Ideal para desenvolvedores que querem agilidade e praticidade na criação de am
 - ⚙️ **Escolha da stack**: Selecione linguagem, banco de dados e serviços extras.
 - 🧾 **Visualização de arquivos**: Exibe o `Dockerfile` e o `docker-compose.yml` com destaque de sintaxe.
 - 📋 **Copiar ou baixar**: Copie os arquivos ou baixe em `.zip` com tudo pronto.
-- 🕓 **Histórico (opcional)**: Veja as últimas stacks geradas (via LocalStorage ou Supabase).
 - 🌙 **Tema claro/escuro**: UI moderna com alternância de tema.
